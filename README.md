@@ -16,12 +16,13 @@
 
 <div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodr1goTavares)](https://github.com/anuraghazra/github-readme-stats)
- </a>
- 
- <a href="https://github.com/Rodr1goTavares/convoychat">
-<img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&layout=compact&langs_count=16&&theme=github_dark"/>
-  </a>
+  <a href="https://github.com/Rodr1goTavares/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodr1goTavares&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodr1goTavares&repo=convoychat" />
+</a>
+
 
 </div>
 
