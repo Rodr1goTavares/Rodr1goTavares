@@ -16,3 +16,6 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&layout=compact&langs_count=16&&theme=github_dark"/>
     
 </div>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
