@@ -22,10 +22,13 @@
  
  <a href="https://github.com/Rodr1goTavares/convoychat">
 <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&layout=compact&langs_count=16&&theme=github_dark"/>
+  </a>
 
 </div>
 
 
+  
+ 
 
 
 
