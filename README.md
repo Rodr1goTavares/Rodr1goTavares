@@ -1,7 +1,8 @@
 
 
 
-![𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒 𝐓𝐑𝐈𝐏(ⁿᵒᵃʳᵗ) - Treze](https://user-images.githubusercontent.com/86687715/190826999-994962ee-b2e8-4cc3-b29b-4c6c6f9090fa.gif)
+![banner (1)](https://user-images.githubusercontent.com/86687715/190827040-66108ea5-cbfa-433f-aa05-1a785a2c4e14.png)
+
 
 
 
