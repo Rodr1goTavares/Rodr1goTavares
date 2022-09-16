@@ -16,8 +16,7 @@
 
 <div>
   
-<a href="https://beacons.ai/Rodr1goTavares">
- <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api? username=Rodr1goTavares&show_icons=true&theme=github_dark&inclue_all_commits=true&count_private=true"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  </a>
  
  <a href="https://github.com/Rodr1goTavares/convoychat">
