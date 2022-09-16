@@ -1,7 +1,7 @@
 
 
 
-![banner (1)](https://user-images.githubusercontent.com/86687715/190827040-66108ea5-cbfa-433f-aa05-1a785a2c4e14.png)
+![banner (1)](https://user-images.githubusercontent.com/86687715/190827040-66108ea5-cbfa-433f-aa05-1a785a2c4e14.gif)
 
 
 
