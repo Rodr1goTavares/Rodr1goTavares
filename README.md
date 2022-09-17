@@ -16,7 +16,7 @@
   
   
   <div class='container'>
-<img style="position: absolute; height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&show_icons=true&theme=blue-green" />
+<img style="position: absolute; transform:translate 50%,-50%; height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&show_icons=true&theme=blue-green" />
 &nbsp;
 
 &nbsp;
