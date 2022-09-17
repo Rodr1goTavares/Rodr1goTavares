@@ -17,11 +17,12 @@
   
  
   
- ### GitHub Stats
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
-
-### GitHub Languages
-<div><img style="align=left; height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
   
   
 
