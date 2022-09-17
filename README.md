@@ -36,11 +36,11 @@
   
   
   <a href="https://github.com/Rodr1goTavares/Rodr1goTavares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodr1goTavares=github-readme-stats" />
 </a>
   
 <a href="https://github.com/Rodr1goTavares/Rodr1goTavares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodr1goTavares&repo=Rodr1goTavares" />
 </a>
 
 
