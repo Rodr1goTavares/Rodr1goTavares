@@ -35,13 +35,6 @@
   
   
   
-  <a href="https://github.com/Rodr1goTavares/Rodr1goTavares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodr1goTavares=github-readme-stats" />
-</a>
-  
-<a href="https://github.com/Rodr1goTavares/Rodr1goTavares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodr1goTavares&repo=Rodr1goTavares" />
-</a>
 
 
 
