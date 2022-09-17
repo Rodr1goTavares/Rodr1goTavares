@@ -11,19 +11,6 @@
   </a>
 </p>
 
-
-
-
-<div>
-<a href="https://beacons.ai/Rodr1goTavares">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&show_icons=true&theme=github_dark&inclue_all_commits=true&count_private=true"/>
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&layout=compact&langs_count=16&&theme=github_dark"/>
-
-</div>
-
-
-  
   
   
   
@@ -31,6 +18,7 @@
   <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&show_icons=true&theme=blue-green" />
 &nbsp;
+
 &nbsp;
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
