@@ -17,15 +17,11 @@
   
  
   
-  <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&show_icons=true&theme=blue-green" />
-&nbsp;
+ ### GitHub Stats
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
-  
-  
+### GitHub Languages
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
   
   
 
