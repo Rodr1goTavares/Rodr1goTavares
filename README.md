@@ -39,10 +39,10 @@
   
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dark&repo=github-readme-stats" />
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=transparent&show_icons=true&repo=github-readme-stats" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dark&repo=convoychat" />
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=transparent&show_icons=true&repo=convoychat" />
     </a>
   </div>
 
