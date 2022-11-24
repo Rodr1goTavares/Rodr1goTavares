@@ -22,8 +22,7 @@
    
      
  
- <!--Barra de status-->
-  
+ <!--Github Readme Stats-->
   
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
@@ -35,16 +34,17 @@
   
   
   
-  <!--Teste -->
+  
+  <!--Stats Backup-->
   <!--
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dark&show_icons=true&border_color=0000&repo=github-readme-stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dark&show_icons=true&border_color=0000&repo=convoychat"/>
-    </a>
-  </div>
+
+ <div align="center">
+  <a href="https://github.com/Rodr1goTavares">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
   -->
 
 
