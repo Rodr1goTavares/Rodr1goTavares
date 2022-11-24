@@ -24,7 +24,7 @@
  
  <!--Barra de status-->
   
-  <div align="center" display="flex" flex-direction="row">
+  <div align="center">
   <a href="https://github.com/Rodr1goTavares">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
