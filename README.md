@@ -1,6 +1,6 @@
 
 
-<!--Banner-->
+<!--< Banner >-->
 
 ![banner](https://user-images.githubusercontent.com/86687715/193377775-0410e1ab-e77b-4300-a189-99d0c79cd420.png)
 
@@ -9,7 +9,7 @@
 
 
 
-<!--Ícones-->
+<!--< Ícones >-->
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@
   
    
      
- <!--Github Readme Stats-->
+ <!--< Github Readme Stats >-->
   
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
@@ -33,7 +33,7 @@
   
   
   
-  <!--Stats Backup-->
+  <!--< Stats Backup >-->
   <!--
 
  <div align="center">
