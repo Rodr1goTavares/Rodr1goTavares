@@ -2,7 +2,7 @@
 
 <!--< Banner >-->
 
-![banner (1)](https://user-images.githubusercontent.com/86687715/218374812-bfa7dc90-722b-4a1a-aff5-5df76c2b6743.png)
+![banner (2)](https://user-images.githubusercontent.com/86687715/218375088-087a6a30-9392-403c-b830-765773a38881.png)
 
 
 
