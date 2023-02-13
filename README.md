@@ -21,10 +21,9 @@
 
 
 <!--< Stats > -->
-
-<a href="https://app.dooboo.io/Rodr1goTavares"><img src="https://server.dooboo.io/github-stats/Rodr1goTavares" width="600" /></a>
-
-  
+<div align="center">
+  <a href="https://app.dooboo.io/Rodr1goTavares"><img src="https://server.dooboo.io/github-stats/Rodr1goTavares" width="600" /></a>
+</div>
    
      
  <!--< Github Readme Stats >-->
