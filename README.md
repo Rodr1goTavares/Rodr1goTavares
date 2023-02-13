@@ -7,8 +7,6 @@
 
 
 
-
-
 <!--< Ícones >-->
 
 <p align="center">
@@ -26,12 +24,13 @@
 </div>
    
      
+     
  <!--< Github Readme Stats >-->
   
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=chartreuse-dark&hide_border=true&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=chartreuse-dark&hide_border=true&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=tokyonight&hide_border=true&&layout=compact"/>
   </a>
 </div>
  
