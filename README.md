@@ -13,9 +13,9 @@
 
 
 <!--< Stats > -->
-<div align="center">
-  <a href="https://app.dooboo.io/Rodr1goTavares"><img src="https://server.dooboo.io/github-stats/Rodr1goTavares" width="740" /></a>
-</div>
+![Rodr1goTavares github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Rodr1goTavares)
+  
+  ![Rodr1goTavares github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Rodr1goTavares)
    
    
  <!--< Github Readme Stats >-->
