@@ -1,4 +1,4 @@
-<!- Text -->
+
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
 <!--< Banner >-->
