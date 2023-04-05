@@ -1,4 +1,5 @@
-
+<!- Text -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
 <!--< Banner >-->
 ![banner (3)](https://user-images.githubusercontent.com/86687715/218375088-087a6a30-9392-403c-b830-765773a38881.png)
