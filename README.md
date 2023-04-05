@@ -13,9 +13,9 @@
 
 
 <!--< Stats > -->
-![Rodr1goTavares github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Rodr1goTavares)
+<!-- ![Rodr1goTavares github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Rodr1goTavares)
   ![Rodr1goTavares github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Rodr1goTavares)
-   
+    -->
    
  <!--< Stats 2 >-->
   <div align="center">
