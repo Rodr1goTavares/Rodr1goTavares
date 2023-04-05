@@ -22,8 +22,8 @@
  <!--< Original Stats >-->
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
-    <img height="235em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=tokyonight&hide_border=true&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=tokyonight&hide_border=true&&layout=compact"/>
   </a>
 </div>
 
