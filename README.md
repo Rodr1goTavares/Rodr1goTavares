@@ -1,6 +1,6 @@
 <div style="position: relative;">
-  <img src="https://user-images.githubusercontent.com/86687715/231038790-d663c284-bc43-4c4e-a09b-35c06735d691.png" alt="banner" width="100%">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile" style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%);">
+  <img src="https://user-images.githubusercontent.com/86687715/231038790-d663c284-bc43-4c4e-a09b-35c06735d691.png" alt="banner" width="100%">
 </div>
 
 
