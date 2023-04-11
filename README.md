@@ -1,9 +1,39 @@
+<div style="position: relative;">
+  <img src="https://user-images.githubusercontent.com/86687715/231034508-c637c026-6837-47bc-9cbb-2470b3809245.png" alt="banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile" style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%);">
+</div>
 
+
+
+
+
+<!--<Banner animated>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile)](https://git.io/typing-svg)
+![banner (3)](https://user-images.githubusercontent.com/86687715/231034508-c637c026-6837-47bc-9cbb-2470b3809245.png)
+
+<style>
+  .banner-wrapper {
+  position: relative;
+ }
+
+ .banner-wrapper svg {
+   position: absolute;
+   top: 0;
+   left: 0;
+   z-index: 1;
+  }
+</style>
+
+-->
+
+
+<!--<Animated title>-->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
  
 <!--< Banner >-->
-![banner (3)](https://user-images.githubusercontent.com/86687715/218375088-087a6a30-9392-403c-b830-765773a38881.png)
+<!-- ![banner (3)](https://user-images.githubusercontent.com/86687715/231034508-c637c026-6837-47bc-9cbb-2470b3809245.png) -->
 
 
 
