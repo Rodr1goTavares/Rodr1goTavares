@@ -6,7 +6,6 @@
 
 
 
-
 <!--<Banner animated>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Rodrigo+Tavares+;Welcome+to+my+profile)](https://git.io/typing-svg)
@@ -49,15 +48,15 @@
  <!--< Original Stats >-->
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_border=true&title_color=e61240&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&title_color=e61240&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_border=true&title_color=e61240&bg_color=0D1117&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&title_color=e61240&bg_color=0D1117&layout=compact"/>
   </a>
 </div>
 
 
-<!--< Stats >-->   
+<!--< Stats >   
  ![github-stats](https://stats.hyochan.dev/api/github-stats?login=Rodr1goTavares)
- 
+-->
 
 <!--< Transparent Stats >-->
 <!--   <div align="center">
@@ -72,9 +71,9 @@
     
   
  
-<!--  <!-- Trophiess -->
-<!--  ![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Rodr1goTavares) -->
-
+<!--  <!-- Trophies 
+![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Rodr1goTavares)
+-->
 
 
 
