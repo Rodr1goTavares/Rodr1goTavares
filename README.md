@@ -49,8 +49,8 @@
  <!--< Original Stats >-->
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_border=true&title_color=&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_border=true&title_color=e61240&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&title_color=e61240&layout=compact"/>
   </a>
 </div>
 
