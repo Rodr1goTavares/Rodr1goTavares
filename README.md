@@ -7,7 +7,7 @@
 <!--< Ícones >-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,python,nodejs,typescript,html,css" />
+    <img src="https://skillicons.dev/icons?i=linux,java,spring,mysql,postgresql,python,nodejs,typescript,html,css" />
   </a>
 </p>
 
