@@ -7,7 +7,7 @@
 <!--< Ícones >-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,java,spring,mysql,postgresql,python,nodejs,typescript,html,css" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,java,spring,mysql,postgresql,mongodb,nodejs,typescript,html,css" />
   </a>
 </p>
 
@@ -17,7 +17,8 @@
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_border=true&title_color=e61240&bg_color=161B22&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&title_color=e61240&bg_color=161B22&layout=compact"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&title_color=e61240&bg_color=161B22&layout=compact"/>
   </a>
 </div>
 
@@ -77,7 +78,7 @@
 -->
 
 <!--< Transparent Stats >-->
-<!--   <div align="center">
+  <!-- <div align="center">
   <a href="https://github.com/Rodr1goTavares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=transparent&hide_border=true&&layout=compact"/>
