@@ -8,8 +8,7 @@
 <!--< Ícones >-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,java" />
-    <!--<img src="https://skillicons.dev/icons?i=linux,c,cpp,python,java,spring,mysql,postgresql,mongodb,nodejs,typescript,html,css" /> -->
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,java,spring,mysql,postgresql,mongodb,nodejs,typescript,html,css" />
   </a>
 </p>
 
