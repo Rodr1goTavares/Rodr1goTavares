@@ -2,13 +2,14 @@
 <div class="page">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello !!👋 Welcome to my profile;My+name+is+Rodrigo+Tavares.;I+am+a+Backend+developer+👨🏽‍💻" style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%);">
  <!-- <img src="https://user-images.githubusercontent.com/86687715/231038790-d663c284-bc43-4c4e-a09b-35c06735d691.png" alt="banner" width="100%"> -->
+  <img src="https://user-images.githubusercontent.com/86687715/231038790-d663c284-bc43-4c4e-a09b-35c06735d691.png" alt="banner" width="100%">
 </div>
 
 
 <!--< Ícones >-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,java,spring,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,c,cpp,python,java,spring" />
   </a>
 </p>
 
