@@ -46,7 +46,7 @@
 
 
 <!--< Stats >-->   
- ![github-stats](https://stats.hyochan.dev/api/github-stats?login=Rodr1goTavares)
+ <!-- ![github-stats](https://stats.hyochan.dev/api/github-stats?login=Rodr1goTavares) -->
  
  
  <!--< Original Stats >
@@ -58,17 +58,15 @@
 </div>
 -->
 
-<!--< Transparent Stats >-->
+
+  <!--< Original Stats >-->
   <div align="center">
   <a href="https://github.com/Rodr1goTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=transparent&hide_border=true&&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodr1goTavares&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_border=true&title_color=e61240&bg_color=161B22&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodr1goTavares&theme=radical&hide_border=true&layout=compact&title_color=e61240&bg_color=161B22"/>
   </a>
 </div>
-
-   
  
-    
   
  
 <!--  <!-- Trophiess -->
