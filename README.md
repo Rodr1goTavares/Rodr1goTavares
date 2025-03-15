@@ -40,7 +40,7 @@
 <!--< Ícones >-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,typescript,javascript,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,vim,c,go,python,java,spring,angular" />
   </a>
 </p>
 
