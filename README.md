@@ -9,7 +9,7 @@
 <!--< Ícones >-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,vim,c,go,python,java,spring,angular" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,vim,c,go,python,java,spring,angular,nextjs" />
   </a>
 </p>
 
